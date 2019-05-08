@@ -8,6 +8,7 @@ import { ProductListComponent } from './products/product-list.component';
 @NgModule({
   imports: [BrowserModule, FormsModule],
   declarations: [AppComponent, ProductListComponent],
+  providers: [],
   bootstrap: [AppComponent]
 })
 export class AppModule { }

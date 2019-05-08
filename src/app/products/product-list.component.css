@@ -1,0 +1,12 @@
+.panel-heading{
+  height: 160%;
+  width:100%;
+  border: 150%; 
+  background: brown;
+  font-family: 'AGENCY FB';
+}
+.table{
+  height: 100%;
+  width: 100%;
+  background: brown
+}
